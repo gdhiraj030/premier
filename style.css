@@ -834,7 +834,7 @@ footer {
 }
 
 /* ---------------mobile device--------------- */
-@media (max-width: 600px) {
+@media (max-width: 376px) {
   body {
     font-size: 12px;
     width: 100%;
