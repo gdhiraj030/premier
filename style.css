@@ -883,7 +883,7 @@ footer {
     /* padding: 0; */
   }
   .page1-bottom--text h1 {
-    font-size: var(--font-l);
+    font-size:2rem;
   }
   .page1-bottom--text .circle {
     display: none;
