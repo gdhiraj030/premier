@@ -834,10 +834,11 @@ footer {
 }
 
 /* ---------------mobile device--------------- */
-@media (max-width: 393px) {
+@media screen and (max-width: 600px) {
   body {
     font-size: 12px;
-    width: 100%;
+  
+    
   }
   .main {
     padding: 0;
